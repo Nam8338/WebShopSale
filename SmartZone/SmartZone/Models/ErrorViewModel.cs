@@ -1,6 +1,6 @@
 using System;
 
-namespace EShop.Models
+namespace SmartZone.Models
 {
     public class ErrorViewModel
     {
